@@ -1,0 +1,33 @@
+.score {
+    transition: all 100ms;
+    animation-name: reveal;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes reveal {
+    0% {
+        font-size: 0px;
+    }
+
+    20% {
+        color: red;
+    }
+
+    40% {
+        color: green;
+    }
+
+    60% {
+        color: orange;
+    }
+
+    80% {
+        color: violet;
+    }
+
+    100% {
+        font-size: 2.5em;
+        color: blue;
+    }
+}
