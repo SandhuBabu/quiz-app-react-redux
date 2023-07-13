@@ -1,4 +1,4 @@
-ReactJS
+reactJS
 <br/>
 redux tolkit
 <br/>
@@ -11,3 +11,5 @@ react-confetti
 mdb-react-ui-kit(mdbootstrap)
 <br/>
 axios
+<br/>
+api : Open Trivia DB
